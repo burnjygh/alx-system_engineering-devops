@@ -1,2 +1,3 @@
 #!/bin/bash
-"sudo -u betty zsh"
+"su betty"
+
