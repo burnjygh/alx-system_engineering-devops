@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir /chmod 744
+chmod -R ugo+X
